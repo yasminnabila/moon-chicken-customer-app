@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Moon Fried Chicken Rice Set",
+    "description": "Choose 1 flavor: Moon Original, Big Bang, Honey Garlaxy, Gangjeong",
+    "price": 33000,
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f5a4588f-fb71-4603-91c4-4e47db1de412_2022_08_31_1%20pc%20rice%20set.jpg",
+    "authorId": 1,
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "Korean Chicken Wings",
+    "description": "Choose 1 flavor: Moon Original, Big Bang, Honey Garlaxy, Gangjeong",
+    "price": "47000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/f5a1c8d9-fd0b-40ea-8274-71c6d2c25dbc_20220404095211-9qva42ql.jpg?auto=format",
+    "authorId": "1",
+    "categoryId": "2"
+  },
+  {
+    "id": 3,
+    "name": "Moon Mandu",
+    "description": "Korean dumpling with savory minced chicken & cabbage filling",
+    "price": 30000,
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/80267659-0777-42c8-8cef-e440861ce800_2022_08_03_Mandu%201.jpg",
+    "authorId": 1,
+    "categoryId": 3
+  },
+  {
+    "id": 4,
+    "name": "Korean Milk Series",
+    "description": "Korean style fruity milk series, Fruity dan Creamy!",
+    "price": 22000,
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/c9fcea0e-cca1-42fc-93e9-dded245a6aff_2022_08_10_Korean%20Milk.png",
+    "authorId": 1,
+    "categoryId": 4
+  },
+  {
+    "id": 5,
+    "name": "Extra Jumeokbap",
+    "description": "Korean seasoned rice with seaweed and sesame",
+    "price": 13000,
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/363c7b51-e55f-44ee-8add-e987af0cf2c9_20220330002046-8wqmqqv8.jpg",
+    "authorId": 1,
+    "categoryId": 5
+  },
+  {
+    "id": 6,
+    "name": "Moon Fried Chicken Complete Set",
+    "description": "Choose 1 flavor: Moon Original, Big Bang, Honey Garlaxy, Gangjeong",
+    "price": "40000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/0d495575-93f7-4d3f-bc02-1621e28d81d0_2022_08_31_1%20pc%20complete%20set%201.jpg?auto=format",
+    "authorId": "2",
+    "categoryId": "1"
+  },
+  {
+    "id": 7,
+    "name": "Korean Chicken Wings Rice Set",
+    "description": "5 Korean Chicken Wings + Rice",
+    "price": 53500,
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/de1f19ee-930e-4446-b57f-d8a6ae5cb168_20220322160636-h2unecug.jpg",
+    "authorId": 2,
+    "categoryId": 1
+  },
+  {
+    "id": 8,
+    "name": "Moon Guk",
+    "description": "Combination of Korean dumpling & fishcakes, simmered in umami dashi broth",
+    "price": "41000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/fa741d94-2f87-4a7a-b2a4-ae92c377566b_2022_09_14_Moondu%20%20Odeng.jpg?auto=format",
+    "authorId": "2",
+    "categoryId": "3"
+  },
+  {
+    "id": 9,
+    "name": "Odeng Guk",
+    "description": "Fishcakes served in umami dashi broth",
+    "price": "26000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e591a688-1c01-4244-8aa3-58107fc83467_2022_09_14_Odeng.jpg?auto=format",
+    "authorId": "2",
+    "categoryId": "3"
+  },
+  {
+    "id": 10,
+    "name": "Mandu Guk",
+    "description": "Korean dumpling with savory minced chicken cabbage filling in umami dashi broth",
+    "price": "29000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/523fe642-a9c5-4dd0-82c0-039adb130870_2022_09_14_Moondu.jpg?auto=format",
+    "authorId": "2",
+    "categoryId": "3"
+  },
+  {
+    "id": 11,
+    "name": "Original Tteokbokki",
+    "description": "Korean rice cakes & fish cake in spicy gochujang sauce",
+    "price": "29000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d327a6e4-b341-442a-a710-ccc9a99772d3_2022_08_03_Tteokbokki%20ori.jpg?auto=format",
+    "authorId": "2",
+    "categoryId": "3"
+  },
+  {
+    "id": 12,
+    "name": "Korean Corn Tea",
+    "description": "Corn tea served cold",
+    "price": "8000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/69cfe7a0-385c-416f-8c62-ec6fbaf4e6bb_20220330002048-qb0vc906.jpg?auto=format",
+    "authorId": "2",
+    "categoryId": "4"
+  },
+  {
+    "id": 13,
+    "name": "Extra Spicy Jumeokbap",
+    "description": "Seasoned rice with seaweed, sesame, and chilli flakes",
+    "price": "14000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/53fd411f-02d0-475e-9b96-83f91270954c_20220330002046-cp0ruj4x.jpg?auto=format",
+    "authorId": "2",
+    "categoryId": "5"
+  },
+  {
+    "id": 14,
+    "name": "Extra Mentai Sauce",
+    "description": "Dipping mentai sauce to enjoy our Korean Street Snacks",
+    "price": "8000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/d6cfaffd-6862-4cb9-885d-38ef6c6b5897_20220329174954-7ve3r415.jpg?auto=format",
+    "authorId": "2",
+    "categoryId": "5"
+  },
+  {
+    "id": 15,
+    "name": "Extra Honey Mustard Sauce",
+    "description": "Dipping honey mustard sauce to enjoy our Korean Street Snacks",
+    "price": "5000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/2d1d26a8-892b-4640-b774-05b7cb22dc83_20220330002046-xqsakata.jpg?auto=format",
+    "authorId": "2",
+    "categoryId": "5"
+  },
+  {
+    "id": 16,
+    "name": "Tea Series",
+    "description": "Tea series with sprinkles of our freshly cut fruit!",
+    "price": "20000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/268fa85c-6e02-4b50-aa18-a2c17ecad403_2022_08_10_Tea%20Series.png?auto=format",
+    "authorId": "2",
+    "categoryId": "4"
+  },
+  {
+    "id": 17,
+    "name": "Dakgalbi Rice",
+    "description": "Grilled chicken marinated in special korean sauce + Rice",
+    "price": "444",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/dda75b86-1fe2-4852-b5c3-a79ade18913d_2022_08_31_Moon%20Dakgalbi%20Rice.jpg?auto=format",
+    "authorId": "2",
+    "categoryId": "6"
+  },
+  {
+    "id": 18,
+    "name": "Moon Chicken Skin",
+    "description": "Crispy and crunchy chicken skin with your favorite flavor (80gr)",
+    "price": "30000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/e220602a-a6a8-45df-a34c-f4f622aad1ce_2022_08_03_Moon%20Skin.jpg?auto=format",
+    "authorId": "1",
+    "categoryId": "3"
+  },
+  {
+    "id": 19,
+    "name": "Meteor Chicken Tteokbokki",
+    "description": "Korean rice cakes & fish cake in spicy gochujang with popcorn chicken bites",
+    "price": "37000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/353e62e9-d477-4d52-9be4-e49b873d99c3_2022_08_03_Tteokbokki%20Meteor.jpg?auto=format",
+    "authorId": "2",
+    "categoryId": "3"
+  },
+  {
+    "id": 20,
+    "name": "Dakgalbi A La Carte",
+    "description": "Grilled chicken marinated in special korean sauce",
+    "price": "37000",
+    "imgUrl": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/202170eb-9ee6-49f3-991e-821fe5db83ea_2022_08_31_Moon%20Dakgalbi%20A%20la%20carte.jpg?auto=format",
+    "authorId": "1",
+    "categoryId": "6"
+  }
+]
