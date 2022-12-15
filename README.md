@@ -1,6 +1,6 @@
-# Moon Chicken - Restaurant Admin Web App
+# Moon Chicken - Restaurant Customer Web App
 
-This is a restaurant management web app I created based on a local franchise called Moon Chicken. This project was made for study purposes using VueJs, deployed with Heroku and Firebase.
+This is a restaurant web app for customer to browse through the menus and bookmark their favorite ones. This project was made for study purposes using VueJs, deployed with Heroku and Firebase. You can find more about the stack <a href="#stack">here</a>.
 
 ## Features
 * Designed using principles learned in Hacktiv8's Fundamentals course
@@ -10,12 +10,12 @@ This is a restaurant management web app I created based on a local franchise cal
 
 ## Demo
 
-Here is a working [_live demo_](https://moon-chicken-vue-app.web.app/). 
+Here is a working [_live demo_](https://moon-chicken-customer.web.app/). 
 Login details:
 - E-mail: admin@outlook.com
 - Password: 12345
 
-https://user-images.githubusercontent.com/108170309/207760927-5d4e0b16-ff3c-4f43-9b68-7a2998d012ab.mp4
+https://user-images.githubusercontent.com/108170309/207765531-1ed516dd-da7c-45d7-bda9-f250e0ef0237.mp4
 
 ## Stack
 <a name="stack"></a>
